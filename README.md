@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu4849
-- 👀 I’m interested in data science and android development.
-- 🌱 I’m currently learning python and C.
+- 👀 I’m interested in Web Dev and Devops.
+- 🌱 I’m currently learning js,react and next.js.
 - 📫 How to reach me priyanshusaini4849@gmail.com
 
 <!---
